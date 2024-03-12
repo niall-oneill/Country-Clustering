@@ -6,4 +6,4 @@ An exploratory data analysis is carried out, followed by clustering to identify 
 
 This would allow a NGO to make effective decisions on where to allocate money to achieve the greatest impact.
 
-*Please review the jupyter notebook file provided*
+**Please review the jupyter notebook file provided**
